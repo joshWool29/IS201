@@ -33,3 +33,8 @@ ol, ul {
     margin: 0;
     padding: 0;
 }
+.vidcontainer {
+    position: relative;
+    width:80%;
+    margin-top:20px;
+}
