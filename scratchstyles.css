@@ -41,3 +41,8 @@ ol, ul {
     right: 40px;
     width: 300px;
 }
+.picture-container {
+    position: absolute;
+    top: 140px;
+    left: 40px;
+}
