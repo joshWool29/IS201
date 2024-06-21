@@ -1,0 +1,35 @@
+.body {
+    top:25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    background-color:beige;
+    padding-top:20px
+}
+.header {
+    top:20px;
+    left:20px;
+    right:20px;
+    height:100px;
+}
+.center {
+    text-align:center
+}
+.lafonta {
+    font-family:Courier
+}
+.lafontab {
+    font-family:'Brush Script MT', cursive;
+}
+.fontcolor1 {
+    color:antiquewhite
+}
+.fontcolor2 {
+    color:darkgrey
+}
+ol, ul {
+    margin: 0;
+    padding: 0;
+}
