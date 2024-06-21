@@ -23,6 +23,7 @@
 }
 .lafontab {
     font-family:'Brush Script MT', cursive;
+    font-size:xx-large;
 }
 .fontcolor1 {
     color:antiquewhite
@@ -37,12 +38,12 @@ ol, ul {
 
 .video-container {
     position: absolute;
-    top: 140px;
+    top: 225px;
     right: 40px;
     width: 300px;
 }
 .picture-container {
     position: absolute;
-    top: 140px;
+    top: 225px;
     left: 40px;
 }
