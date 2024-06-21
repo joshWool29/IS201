@@ -35,12 +35,12 @@ ol, ul {
 }
 .container {
     position: relative;
-    width:80%;
+    width:100%;
     margin-top:100px;
 }
 .video-container {
     position: absolute;
     top: 100px;
     right: 0;
-    width: 560px;
+    width: 300px;
 }
