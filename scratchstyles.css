@@ -33,9 +33,10 @@ ol, ul {
     margin: 0;
     padding: 0;
 }
-.container {
-    position: relative;
-    width:100%;
-    top:140px;
-    right:40px;
+
+.video-container {
+    position: absolute;
+    top: 140px;
+    right: 40px;
+    width: 300px;
 }
